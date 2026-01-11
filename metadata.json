@@ -1,0 +1,8 @@
+{
+  "name": "StaticHeart Official",
+  "description": "An immersive, neon-pink themed official portal for the idol group StaticHeart, featuring discography, concept galleries, and an AI-powered audition portal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
